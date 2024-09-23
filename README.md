@@ -1,0 +1,2 @@
+# miniRag
+very easy RAG
