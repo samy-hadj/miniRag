@@ -21,3 +21,5 @@ langchain-openai
 langchain-text-splitters
 langchain-community
 python-dotenv
+dash
+dash-bootstrap-components
